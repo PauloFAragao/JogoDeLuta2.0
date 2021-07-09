@@ -1,0 +1,19 @@
+﻿  Game.cpp
+  Interface.cpp
+  Main.cpp
+  PlayerInput.cpp
+  Scenario.cpp
+  Terry.cpp
+  Terry_ActionProcess.cpp
+  Terry_Animations.cpp
+  Terry_Attacks.cpp
+  Terry_Effects.cpp
+  Gerando Código...
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\PlayerInput.cpp(90): warning C4715: 'PlayerInput::GetPlayerBtDownImputs': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\PlayerInput.cpp(98): warning C4715: 'PlayerInput::GetPlayerBtUpImputs': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\PlayerInput.cpp(82): warning C4715: 'PlayerInput::GetPlayerInputs': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\Interface.cpp(1560): warning C4715: 'Interface::ReadyTextBuild': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\Interface.cpp(1513): warning C4715: 'Interface::RoundTextBuild': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\Interface.cpp(1671): warning C4715: 'Interface::TimeOverTextBuild': nem todos os caminhos de controle retornam um valor
+C:\Users\Paulo\Desktop\Nova pasta\project_0.1\Interface.cpp(1871): warning C4715: 'Interface::WinnerTextBuild': nem todos os caminhos de controle retornam um valor
+  project_0.1.vcxproj -> C:\Users\Paulo\Desktop\Nova pasta\x64\Debug\project_0.1.exe
